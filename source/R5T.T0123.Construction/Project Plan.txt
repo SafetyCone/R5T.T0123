@@ -1,0 +1,3 @@
+R5T.T0123.Construction - Construction project for IRepositoryPath, IRepositoryPathOperator, and related extension method base types..
+
+GOALS:
